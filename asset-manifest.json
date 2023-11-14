@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ElgarsJevsejevs/Soup-recipe-app/static/css/main.d15c0727.css",
+    "main.js": "/ElgarsJevsejevs/Soup-recipe-app/static/js/main.39b3f0d7.js",
+    "static/media/food_wall.jpg": "/ElgarsJevsejevs/Soup-recipe-app/static/media/food_wall.b878fb9209f99870c4ee.jpg",
+    "static/media/food_img1.jpg": "/ElgarsJevsejevs/Soup-recipe-app/static/media/food_img1.c9b414d90f2f0e248a53.jpg",
+    "static/media/restaurant.png": "/ElgarsJevsejevs/Soup-recipe-app/static/media/restaurant.1ac9095b202211c1ca48.png",
+    "static/media/search4.png": "/ElgarsJevsejevs/Soup-recipe-app/static/media/search4.1e71f44675201005904e.png",
+    "static/media/back.png": "/ElgarsJevsejevs/Soup-recipe-app/static/media/back.d4860b4329b8b48afd40.png",
+    "index.html": "/ElgarsJevsejevs/Soup-recipe-app/index.html",
+    "main.d15c0727.css.map": "/ElgarsJevsejevs/Soup-recipe-app/static/css/main.d15c0727.css.map",
+    "main.39b3f0d7.js.map": "/ElgarsJevsejevs/Soup-recipe-app/static/js/main.39b3f0d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d15c0727.css",
+    "static/js/main.39b3f0d7.js"
+  ]
+}
