@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Soup-recipe-app/static/css/main.d15c0727.css",
-    "main.js": "/Soup-recipe-app/static/js/main.944c1548.js",
+    "main.js": "/Soup-recipe-app/static/js/main.f4a6f34f.js",
     "static/media/food_wall.jpg": "/Soup-recipe-app/static/media/food_wall.b878fb9209f99870c4ee.jpg",
     "static/media/food_img1.jpg": "/Soup-recipe-app/static/media/food_img1.c9b414d90f2f0e248a53.jpg",
     "static/media/restaurant.png": "/Soup-recipe-app/static/media/restaurant.1ac9095b202211c1ca48.png",
@@ -9,10 +9,10 @@
     "static/media/back.png": "/Soup-recipe-app/static/media/back.d4860b4329b8b48afd40.png",
     "index.html": "/Soup-recipe-app/index.html",
     "main.d15c0727.css.map": "/Soup-recipe-app/static/css/main.d15c0727.css.map",
-    "main.944c1548.js.map": "/Soup-recipe-app/static/js/main.944c1548.js.map"
+    "main.f4a6f34f.js.map": "/Soup-recipe-app/static/js/main.f4a6f34f.js.map"
   },
   "entrypoints": [
     "static/css/main.d15c0727.css",
-    "static/js/main.944c1548.js"
+    "static/js/main.f4a6f34f.js"
   ]
 }
